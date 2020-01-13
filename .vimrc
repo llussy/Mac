@@ -1,0 +1,9 @@
+syntax on
+syntax enable
+set paste
+filetype on
+colo desert
+set nobackup
+set encoding=utf-8
+set termencoding=utf-8
+set fileencodings=ucs-bom,utf-8,gb18030,gbk,gb2312,big5,euc-jp,euc-kr,latin1,cp936
