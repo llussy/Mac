@@ -17,3 +17,14 @@
 - ag
 - tldr
 - htop
+
+### chrome插件
+
+- Adblock
+- Tampermonkey
+- google 翻译/Mate Translate/沙拉查词
+- ImageAssistant
+- Extension Manager
+- 哔哩哔哩助手
+- 简悦
+- FireShot
