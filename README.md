@@ -8,12 +8,14 @@
 - [SwitchHosts](https://github.com/oldj/SwitchHosts)
 - [Sublime Text](https://www.sublimetext.com/)
 - [1password](https://1password.com/)
+- [iina](https://github.com/iina/iina)
 
 ### 命令行工具
 
 - [mycli](https://github.com/dbcli/mycli)
 - [fzf](https://github.com/junegunn/fzf)
 - [http](https://github.com/jakubroztocil/httpie)
+- [you-get](https://github.com/soimort/you-get)
 - ag
 - tldr
 - htop
