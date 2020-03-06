@@ -19,6 +19,7 @@
 - ag
 - tldr
 - htop
+- [imagemagick](https://imagemagick.org/)
 
 ### chrome插件
 
