@@ -31,3 +31,7 @@
 - 哔哩哔哩助手
 - 简悦
 - FireShot
+
+### others
+- [Enolsoft PDF Compressor](https://www.enolsoft.com/pdf-compressor-for-mac.html)
+- [ImageOptim](https://imageoptim.com/mac)
