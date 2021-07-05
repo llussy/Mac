@@ -31,6 +31,8 @@
 - 哔哩哔哩助手
 - 简悦
 - FireShot
+- Video Downloader for Chrome
+- FeHelper
 
 ### others
 - [Enolsoft PDF Compressor](https://www.enolsoft.com/pdf-compressor-for-mac.html)
