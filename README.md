@@ -20,8 +20,9 @@
 - tldr
 - htop
 - [imagemagick](https://imagemagick.org/)
+- [httpstat](https://github.com/davecheney/httpstat)
 
-### chrome插件
+### chrome 插件
 
 - Adblock
 - Tampermonkey
@@ -33,6 +34,10 @@
 - FireShot
 - Video Downloader for Chrome
 - FeHelper
+
+### web 工具
+- [ping.pe](http://ping.pe/)
+- 
 
 ### others
 - [Enolsoft PDF Compressor](https://www.enolsoft.com/pdf-compressor-for-mac.html)
