@@ -9,6 +9,8 @@
 - [Sublime Text](https://www.sublimetext.com/)
 - [1password](https://1password.com/)
 - [iina](https://github.com/iina/iina)
+- [clipy](https://clipy-app.com/)
+- [sketch](https://www.sketch.com/)
 
 ### 命令行工具
 
