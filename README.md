@@ -11,6 +11,7 @@
 - [iina](https://github.com/iina/iina)
 - [clipy](https://clipy-app.com/)
 - [sketch](https://www.sketch.com/)
+- [magnet](https://magnet.crowdcafe.com/)
 
 ### 命令行工具
 
@@ -18,11 +19,14 @@
 - [fzf](https://github.com/junegunn/fzf)
 - [http](https://github.com/jakubroztocil/httpie)
 - [you-get](https://github.com/soimort/you-get)
+- open
 - ag
 - tldr
 - htop
+- pdcopy pdpaste
 - [imagemagick](https://imagemagick.org/)
 - [httpstat](https://github.com/davecheney/httpstat)
+- [masscan](https://github.com/robertdavidgraham/masscan)
 
 ### chrome 插件
 
