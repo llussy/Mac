@@ -18,6 +18,53 @@
     // "explorer.confirmDragAndDrop": false,
 }
 ```
+### macpro
+```yaml
+{
+    "workbench.colorTheme": "Monokai",
+    "debug.console.fontSize": 8,
+    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "go.toolsGopath": "/Users/lisai/go",
+    "go.formatTool": "goimports",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.iconTheme": "vscode-great-icons",
+    "explorer.confirmDelete": false,
+    "go.useLanguageServer": true,
+    "go.lintTool":"golangci-lint",
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "go.buildOnSave": "workspace",
+    "go.lintOnSave": "package",
+    "go.vetOnSave": "workspace",
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggestWithoutType": true,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.gocodePackageLookupMode": "go",
+    "go.inferGopath": true,
+    "go.docsTool": "gogetdoc",
+
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+        // Optional: Disable snippets, as they conflict with completion ranking.
+        "editor.snippetSuggestions": "none",
+    },
+    "[go.mod]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+}
+
+```
 
 ### 自动补全
 ```bash
