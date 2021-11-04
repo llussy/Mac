@@ -22,13 +22,13 @@
 ```yaml
 {
     "workbench.colorTheme": "Monokai",
-    "debug.console.fontSize": 8,
+    "debug.console.fontSize": 9,
     "window.zoomLevel": 1,
+    "editor.fontSize": 13,
     "files.autoSave": "afterDelay",
     "go.toolsGopath": "/Users/lisai/go",
     "go.formatTool": "goimports",
     "explorer.confirmDragAndDrop": false,
-    "workbench.iconTheme": "vscode-great-icons",
     "explorer.confirmDelete": false,
     "go.useLanguageServer": true,
     "go.lintTool":"golangci-lint",
@@ -43,7 +43,7 @@
     "go.useCodeSnippetsOnFunctionSuggest": true,
     "go.autocompleteUnimportedPackages": true,
     "go.gocodePackageLookupMode": "go",
-    "go.inferGopath": true,
+    // "go.inferGopath": true,
     "go.docsTool": "gogetdoc",
 
     "[go]": {
