@@ -1,3 +1,4 @@
+[toc]
 ### 常用软件
 
 - [iTerm2](https://github.com/gnachman/iTerm2)
@@ -10,10 +11,9 @@
 - [1password](https://1password.com/)
 - [iina](https://github.com/iina/iina)
 - [clipy](https://clipy-app.com/)
-- [sketch](https://www.sketch.com/)
 - [magnet](https://magnet.crowdcafe.com/)
 
-### 命令行工具
+### cli tools
 
 - [mycli](https://github.com/dbcli/mycli)
 - [fzf](https://github.com/junegunn/fzf)
@@ -28,7 +28,13 @@
 - [httpstat](https://github.com/davecheney/httpstat)
 - [masscan](https://github.com/robertdavidgraham/masscan)
 
-### chrome 插件
+### drawing tool
+- [sketch](https://www.sketch.com/)
+- [whimsical](https://whimsical.com/)
+- [xmind](https://www.xmind.net/)
+- [draw.io](https://app.diagrams.net/)
+
+### chrome plugins
 
 - Adblock
 - Tampermonkey
