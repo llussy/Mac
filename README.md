@@ -29,10 +29,14 @@
 - [masscan](https://github.com/robertdavidgraham/masscan)
 
 ### drawing tool
-- [sketch](https://www.sketch.com/)
-- [whimsical](https://whimsical.com/)
 - [xmind](https://www.xmind.net/)
 - [draw.io](https://app.diagrams.net/)
+- [asciiflow](https://asciiflow.com/)
+- [figma](https://www.figma.com/)
+- [sketch](https://www.sketch.com/)
+- [whimsical](https://whimsical.com/)
+- [processon](https://www.processon.com/)
+- [excalidraw](https://excalidraw.com/)
 
 ### chrome plugins
 
