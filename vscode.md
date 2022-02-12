@@ -1,3 +1,9 @@
+### info
+```bash
+Font Size 12
+Auto Save afterDelay
+Zoom Level 1
+```
 
 ### vscode-setting.yaml
 ```yaml
