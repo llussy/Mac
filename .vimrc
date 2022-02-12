@@ -45,6 +45,12 @@ au InsertLeave *.go,*.sh,*.php write
 " 允许使用删除键
 set nocompatible
 set backspace=indent,eol,start
+
+" 中文乱码解决
+set fileencodings=utf-8,ucs-bom,gb18030,gbk,gb2312,cp936
+set termencoding=utf-8
+set encoding=utf-8
+
 "==============================================================================
 " 插件配置 
 "==============================================================================
