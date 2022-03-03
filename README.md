@@ -50,6 +50,7 @@
 - FireShot
 - Video Downloader for Chrome
 - FeHelper
+- Omni
 
 ### web 工具
 - [ping.pe](http://ping.pe/)
