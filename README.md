@@ -50,7 +50,7 @@
 - FireShot
 - Video Downloader for Chrome
 - FeHelper
-- Omni
+- [Omni](/chrome/Omni.md)
 
 ### web 工具
 - [ping.pe](http://ping.pe/)
