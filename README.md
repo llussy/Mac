@@ -60,3 +60,4 @@
 ### others
 - [Enolsoft PDF Compressor](https://www.enolsoft.com/pdf-compressor-for-mac.html)
 - [ImageOptim](https://imageoptim.com/mac)
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
