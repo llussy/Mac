@@ -51,6 +51,8 @@
 - Video Downloader for Chrome
 - FeHelper
 - [Omni](/chrome/Omni.md)
+- [itab](https://www.itab.link/)
+
 
 ### web 工具
 - [ping.pe](http://ping.pe/)
@@ -61,3 +63,13 @@
 - [Enolsoft PDF Compressor](https://www.enolsoft.com/pdf-compressor-for-mac.html)
 - [ImageOptim](https://imageoptim.com/mac)
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)
+- [shottr](https://shottr.cc/)
+
+### password
+- [1password](https://1password.com/)
+- [bitwarden](https://bitwarden.com/)
+- [vaultwarden](https://github.com/dani-garcia/vaultwarden)
+- [keepass](https://keepass.info/)
+- [pass](https://www.passwordstore.org/)
+- [vault](https://www.vaultproject.io/)
+
