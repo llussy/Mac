@@ -1,0 +1,82 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "debug.console.fontSize": 9,
+    "editor.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "go.toolsGopath": "/Users/lisai/go",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git-Bash": {
+            "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "args": [],
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Git-Bash",
+    "[go]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+        // Optional: Disable snippets, as they conflict with completion ranking.
+        "editor.snippetSuggestions": "none",
+    },
+    "[go.mod]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true,
+        },
+    },
+    "editor.suggestSelection": "first",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "projectManager.openInCurrentWindowIfEmpty": "never",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.inlineSuggest.enabled": true,
+    "git.ignoreLegacyWarning": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": true,
+        "go": true
+    },
+    "remote.SSH.remotePlatform": {
+        "deployment": "linux",
+        "jenkins": "linux",
+        "deploy-test": "linux"
+    },
+    // react 
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "editor.unicodeHighlight.allowedLocales": {
+        "zh-hant": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "redhat.telemetry.enabled": false,
+    "go.toolsManagement.autoUpdate": true,
+    "pasteImage.path": " \"${currentFileDir}../images\"",
+    "pasteImage.prefix": "images/",
+    "window.zoomLevel": 1,
+    "[python]": {
+        "editor.formatOnType": true
+    }
+}

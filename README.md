@@ -1,5 +1,5 @@
 [toc]
-### 常用软件
+### Software
 
 - [iTerm2](https://github.com/gnachman/iTerm2)
 - [Typora](https://www.typora.io/)
@@ -54,7 +54,7 @@
 - [itab](https://www.itab.link/)
 
 
-### web 工具
+### web tools
 - [ping.pe](http://ping.pe/)
 - [curlconverter](https://github.com/NickCarneiro/curlconverter)
 - [aconvert](https://www.aconvert.com/)
@@ -73,3 +73,6 @@
 - [pass](https://www.passwordstore.org/)
 - [vault](https://www.vaultproject.io/)
 
+### vscode plugins
+- [markmap](https://github.com/markmap/markmap)
+- [codestream](https://www.codestream.com/)
