@@ -4,6 +4,10 @@ Font Size 12
 Auto Save afterDelay
 Zoom Level 1
 ```
+### Hot Key
+```bash
+ctrl+shift+p # 格式 html css js
+```
 
 ### vscode-setting.yaml
 ```yaml
