@@ -12,6 +12,9 @@
 - [iina](https://github.com/iina/iina)
 - [clipy](https://clipy-app.com/)
 - [magnet](https://magnet.crowdcafe.com/)
+- [CatchMouse](https://github.com/round/CatchMouse)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/)
+- [Raycast](https://www.raycast.com/)
 
 ### cli tools
 
@@ -52,6 +55,7 @@
 - FeHelper
 - [Omni](/chrome/Omni.md)
 - [itab](https://www.itab.link/)
+- Vimium
 
 
 ### web tools
