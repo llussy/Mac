@@ -15,6 +15,7 @@
 - [CatchMouse](https://github.com/round/CatchMouse)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/)
 - [Raycast](https://www.raycast.com/)
+- [iShot](https://apps.apple.com/cn/app/ishot-%E4%BC%98%E7%A7%80%E7%9A%84%E6%88%AA%E5%9B%BE%E8%B4%B4%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%BD%95%E9%9F%B3ocr%E7%BF%BB%E8%AF%91%E5%8F%96%E8%89%B2%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12)
 
 ### cli tools
 
