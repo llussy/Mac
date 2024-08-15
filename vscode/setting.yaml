@@ -1,9 +1,9 @@
 {
     "workbench.colorTheme": "Monokai",
-    "debug.console.fontSize": 9,
+    "debug.console.fontSize": 10,
+    "window.zoomLevel": 0.85,
     "editor.fontSize": 13,
     "files.autoSave": "afterDelay",
-    "go.toolsGopath": "/Users/lisai/go",
     "explorer.confirmDragAndDrop": false,
     "explorer.confirmDelete": false,
     "terminal.integrated.profiles.windows": {
@@ -28,7 +28,7 @@
     "[go]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true,
+            "source.organizeImports": "explicit"
         },
         // Optional: Disable snippets, as they conflict with completion ranking.
         "editor.snippetSuggestions": "none",
@@ -36,7 +36,7 @@
     "[go.mod]": {
         "editor.formatOnSave": true,
         "editor.codeActionsOnSave": {
-            "source.organizeImports": true,
+            "source.organizeImports": "explicit"
         },
     },
     "editor.suggestSelection": "first",
@@ -47,20 +47,23 @@
         "**/.factorypath": true
     },
     "projectManager.openInCurrentWindowIfEmpty": "never",
-    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
     "editor.inlineSuggest.enabled": true,
     "git.ignoreLegacyWarning": true,
     "github.copilot.enable": {
-        "*": true,
-        "yaml": true,
+        "*": false,
         "plaintext": false,
         "markdown": true,
+        "scminput": false,
+        "yaml": true,
         "go": true
     },
     "remote.SSH.remotePlatform": {
         "deployment": "linux",
         "jenkins": "linux",
-        "deploy-test": "linux"
+        "deploy-test": "linux",
+        "82.157.166.6": "linux",
+        "k8s-op": "linux"
     },
     // react 
     "emmet.includeLanguages": {
@@ -75,8 +78,53 @@
     "go.toolsManagement.autoUpdate": true,
     "pasteImage.path": " \"${currentFileDir}../images\"",
     "pasteImage.prefix": "images/",
-    "window.zoomLevel": 1,
     "[python]": {
         "editor.formatOnType": true
-    }
+    },
+    "vs-kubernetes": {
+        "vs-kubernetes.crd-code-completion": "disabled",
+        "vs-kubernetes.minikube-show-information-expiration": "2024-11-03T05:50:01.209Z"
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "[go][go.mod]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "gitlens.views.worktrees.files.threshold": 10,
+    "editor.wordWrap": "on",
+    "editor.stickyScroll.enabled": false,
+    "git.openRepositoryInParentFolders": "never",
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "markdownlint.config": {
+        "MD025": false,
+        "MD024": false,
+        "MD034": false
+    },
+    "workbench.startupEditor": "none",
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "terminal.integrated.env.osx": {
+        "Q_NEW_SESSION": "1"
+    },
+    "github.copilot.editor.enableAutoCompletions": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "update.mode": "none",
+    "go.lintOnSave": "file",
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--tests=false"
+    ]
 }
