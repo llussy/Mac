@@ -28,10 +28,14 @@
 - [Sublime Text](https://www.sublimetext.com/) 代码编辑器
 - [iina](https://github.com/iina/iina) 视频播放器
 - [clipy](https://clipy-app.com/) 剪贴板管理工具
-- [iShot](https://apps.apple.com/cn/app/ishot-%E4%BC%98%E7%A7%80%E7%9A%84%E6%88%AA%E5%9B%BE%E8%B4%B4%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%BD%95%E9%9F%B3ocr%E7%BF%BB%E8%AF%91%E5%8F%96%E8%89%B2%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12) 截图工具
 - [Manico](https://manico.im/) 像高手一样启动和切换 App *强烈推荐*
 - [MacStroke](https://github.com/mtjo/MacStroke) macOS 上高度可配置的全局鼠标手势软件 *强烈推荐*
 - [Cyberduck](https://cyberduck.io/) 开源的 FTP、SFTP、WebDAV、S3、OpenStack Swift 和 Cloud Files 浏览器
+
+### 截图工具
+
+- [iShot](https://apps.apple.com/cn/app/ishot-%E4%BC%98%E7%A7%80%E7%9A%84%E6%88%AA%E5%9B%BE%E8%B4%B4%E5%9B%BE%E5%BD%95%E5%B1%8F%E5%BD%95%E9%9F%B3ocr%E7%BF%BB%E8%AF%91%E5%8F%96%E8%89%B2%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7/id1485844094?mt=12) 截图工具
+- [pixpin](https://pixpin.cn/) 随心截图, 随意贴图
 
 ### Password Management
 
