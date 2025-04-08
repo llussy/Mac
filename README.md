@@ -3,7 +3,7 @@
 ## 个人常用提效工具
 
 - [1password](https://1password.com/) 密码管理器
-- [BetterTouchTool](https://better-mouse.com/) 鼠标侧键工具
+- [BetterMouse](https://better-mouse.com/) 鼠标管理工具
 - [Cursor](https://www.cursor.com/) 代码编辑器
 - [iTerm2](https://github.com/gnachman/iTerm2) 终端工具
 - [KeyboardHolder](https://keyboardholder.leavesc.com/zh-cn/) 记住每个app使用的输入法
@@ -59,7 +59,7 @@
 
 ### Keyboard Tools
 
-- [BetterTouchTool](https://better-mouse.com/) 鼠标侧键 *强烈推荐*
+- [BetterMouse](https://better-mouse.com/) 鼠标管理工具 *强烈推荐*
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) 键盘映射
 - [CatchMouse](https://github.com/round/CatchMouse) 鼠标手势
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) 键盘映射
