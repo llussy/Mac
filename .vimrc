@@ -10,6 +10,10 @@
 " 关闭兼容模式
 set nocompatible
 
+set mouse=a
+set clipboard=unnamed
+vmap <silent> <LeftRelease> "+y
+
 set nu " 设置行号
 set cursorline "突出显示当前行
 " set cursorcolumn " 突出显示当前列
